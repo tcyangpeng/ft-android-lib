@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

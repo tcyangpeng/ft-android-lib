@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

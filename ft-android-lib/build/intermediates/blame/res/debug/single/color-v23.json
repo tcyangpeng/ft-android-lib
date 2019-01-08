@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    }
+]

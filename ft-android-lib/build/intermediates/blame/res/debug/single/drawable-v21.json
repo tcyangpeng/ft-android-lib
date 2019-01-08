@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\FOCUSTEACH\\DevBranches\\FT_2018.64\\Library_2018.64\\ft-android-lib\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\lib\\android\\sdk\\.android\\build-cache\\6020fa745d1f5099ce2b4a17a62735e7a24db5e4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
